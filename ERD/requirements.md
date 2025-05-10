@@ -18,3 +18,4 @@
 - A Booking **has** one Review (optional)
 - A User **writes** a Review
 
+![er-diagram-airbnb-alx](https://github.com/user-attachments/assets/15ad1f47-b0f7-4132-ae10-ad517e9c9d27)
